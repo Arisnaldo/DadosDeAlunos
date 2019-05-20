@@ -37,6 +37,7 @@ public class login extends javax.swing.JFrame {
         rSButton3 = new rojeru_san.RSButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Login");
 
         kGradientPanel1.setkEndColor(new java.awt.Color(0, 0, 0));
         kGradientPanel1.setkStartColor(new java.awt.Color(51, 51, 51));
