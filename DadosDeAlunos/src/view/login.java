@@ -51,7 +51,9 @@ public class login extends javax.swing.JFrame {
 
         rSMPassView1.setPlaceholder("Senha");
 
+        rSButton1.setBackground(new java.awt.Color(0, 102, 102));
         rSButton1.setText("Entrar");
+        rSButton1.setColorHover(new java.awt.Color(0, 0, 0));
 
         rSButton2.setText("Cadastrar");
 
